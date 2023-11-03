@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "Name": "Alice",
+    "Age": 20,
+    "Major": "Computer Science",
+    "GPA": 3.7
+  },
+  {
+    "ID": 2,
+    "Name": "Bob",
+    "Age": 21,
+    "Major": "Engineering",
+    "GPA": 3.9
+  }
+]
